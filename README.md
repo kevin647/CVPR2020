@@ -3,7 +3,11 @@
 
 ## Table of Contents
   - [Visual-Language Grounding](#visual-language-grounding)
+  - [Object-Detection](#object-detection)
 
 
 ### Visual-Language Grounding:
 1. Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, et al. **Embodied Language Grounding With 3D Visual Feature Representations.** [[Paper]](https://arxiv.org/pdf/1910.01210.pdf) [[Code]]() - Nuri
+
+### Object-Detection
+1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
