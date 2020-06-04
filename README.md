@@ -12,6 +12,10 @@
 1. Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, et al. **Embodied Language Grounding With 3D Visual Feature Representations.** [[Paper]](https://arxiv.org/pdf/1910.01210.pdf) - Nuri
 2. Arka Sadhu, Kan Chen, Ram Nevatia, **Video Object Grounding Using Semantic Roles in Language Description** [[Paper]](https://arxiv.org/pdf/2003.10606.pdf) [[Code]](https://github.com/TheShadow29/vognet-pytorch) - Nuri
 3. Zhu Zhang, Zhou Zhao, Yang Zhao, Qi Wang, Huasheng Liu, Lianli Gao, **Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences** [[Paper]](https://arxiv.org/pdf/2001.06891.pdf) [[Dataset]](https://github.com/Guaranteer/VidSTG-Dataset) - Nuri
+4. Gunnar A. Sigurdsson, Jean-Baptiste Alayrac, Aida Nematzadeh, Lucas Smaira, Mateusz Malinowski, João Carreira, Phil Blunsom, Andrew Zisserman, **Visual Grounding in Video for Unsupervised Word Translation** [[Paper]](https://arxiv.org/pdf/2003.05078.pdf) [[Code]](https://github.com/gsig/visual-grounding) - Nuri
+5. Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang, **More Grounded Image Captioning by Distilling Image-Text Matching Model** [[Paper]](https://arxiv.org/pdf/2004.00390.pdf) [[Code]](https://github.com/YuanEZhou/Grounded-Image-Captioning) - Nuri
+6. Runhao Zeng, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chuang Gan, **Dense Regression Network for Video Grounding** [[Paper]](https://arxiv.org/pdf/2004.03545.pdf) - Nuri
+7. Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox, **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** [[Paper]](https://arxiv.org/pdf/1912.01734.pdf) [[Code]](https://github.com/askforalfred/alfred) [[Project Page]](https://askforalfred.com/) - Nuri
 
 ### Object-Detection
 1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
