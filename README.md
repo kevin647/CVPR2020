@@ -11,7 +11,7 @@
 ### Visual-Language Grounding:
 1. Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, et al. **Embodied Language Grounding With 3D Visual Feature Representations.** [[Paper]](https://arxiv.org/pdf/1910.01210.pdf) - Nuri
 2. Arka Sadhu, Kan Chen, Ram Nevatia, **Video Object Grounding Using Semantic Roles in Language Description** [[Paper]](https://arxiv.org/pdf/2003.10606.pdf) [[Code]](https://github.com/TheShadow29/vognet-pytorch) - Nuri
-3. **Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences** [[Paper]](https://arxiv.org/pdf/2001.06891.pdf [[Dataset]](https://github.com/Guaranteer/VidSTG-Dataset)
+3. **Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences** [[Paper]](https://arxiv.org/pdf/2001.06891.pdf) [[Dataset]](https://github.com/Guaranteer/VidSTG-Dataset) - Nuri
 
 ### Object-Detection
 1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
