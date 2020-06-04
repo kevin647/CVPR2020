@@ -3,7 +3,7 @@
 
 ## Table of Contents
   - [Visual-Language Grounding](#visual-language-grounding)
-  - [Visual-Language Simulator](#visual-navigation-simualtor)
+  - [Visual-Navigation Simulator](#visual-navigation-simualtor)
   - [Object-Detection](#object-detection)
   - [Pose-Estimation](#pose-estimation)
   - [Feature-Detection](#feature-detection)
