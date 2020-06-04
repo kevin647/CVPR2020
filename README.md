@@ -12,4 +12,4 @@
 ### Object-Detection
 1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
 
-2. Perez-Rua, Juan-Manuel, et al. **Incremental Few-Shot Object Detection." arXiv preprint arXiv:2003.04668 (2020).** [[Paper]](https://arxiv.org/pdf/2003.04668.pdf) - Hogun
+2. Perez-Rua, Juan-Manuel, et al. **Incremental Few-Shot Object Detection.** [[Paper]](https://arxiv.org/pdf/2003.04668.pdf) - Hogun
