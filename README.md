@@ -15,5 +15,9 @@
 
 2. Perez-Rua, Juan-Manuel, et al. **Incremental Few-Shot Object Detection.** [[Paper]](https://arxiv.org/pdf/2003.04668.pdf) - Hogun
 
+3. Zhu, Pengkai, Hanxiao Wang, and Venkatesh Saligrama. **Dont Even Look Once: Synthesizing Features for Zero-Shot Detection.** [[Paper]](https://arxiv.org/pdf/1911.07933.pdf) - Hogun
+
 ### Pose-Estimation
-1. He, Yisheng, et al. **PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation.** [[Paper]](https://arxiv.org/pdf/1911.04231.pdf) [[Code]](https://github.com/ethnhe/PVN3D) -Hogun
+1. He, Yisheng, et al. **PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation.** [[Paper]](https://arxiv.org/pdf/1911.04231.pdf) [[Code]](https://github.com/ethnhe/PVN3D) - Hogun
+
+2. Liu, Xingyu, et al. **KeyPose: Multi-View 3D Labeling and Keypoint Estimationfor Transparent Objects.** [[Paper]](https://arxiv.org/pdf/1912.02805.pdf) [[Code]](https://sites.google.com/view/keypose) - Hogun
