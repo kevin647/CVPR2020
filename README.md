@@ -4,6 +4,7 @@
 ## Table of Contents
   - [Visual-Language Grounding](#visual-language-grounding)
   - [Object-Detection](#object-detection)
+  - [Pose-Estimation](#pose-estimation)
 
 
 ### Visual-Language Grounding:
@@ -13,3 +14,6 @@
 1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
 
 2. Perez-Rua, Juan-Manuel, et al. **Incremental Few-Shot Object Detection.** [[Paper]](https://arxiv.org/pdf/2003.04668.pdf) - Hogun
+
+### Pose-Estimation
+1. He, Yisheng, et al. **PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation.** [[Paper]](https://arxiv.org/pdf/1911.04231.pdf) [[Code]](https://github.com/ethnhe/PVN3D) -Hogun
