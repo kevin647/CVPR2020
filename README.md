@@ -33,6 +33,8 @@
 
 2. Liu, Xingyu, et al. **KeyPose: Multi-View 3D Labeling and Keypoint Estimationfor Transparent Objects.** [[Paper]](https://arxiv.org/pdf/1912.02805.pdf) [[Project Page]](https://sites.google.com/view/keypose) - Hogun
 
+3. Xiaolong Li, He Wang et al. **ANCSH: Category-Level Articulated Object Pose Estimation.** [[paper]](https://arxiv.org/pdf/1912.11913.pdf) [[Project Page]](https://articulated-pose.github.io/) [[Code]](https://github.com/dragonlong/articulated-pose) - Dohyeong
+
 ### Feature-Detection
 1. Paul-Edouard Sarlin, et al., **SuperGlue: Learning Feature Matching with Graph Neural Networks.** [[Paper]](https://arxiv.org/pdf/1911.11763.pdf) [[Code]](https://github.com/magicleap/SuperGluePretrainedNetwork) - Yunho
 
