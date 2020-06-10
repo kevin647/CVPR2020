@@ -28,6 +28,10 @@
 
 3. Zhu, Pengkai, Hanxiao Wang, and Venkatesh Saligrama. **Dont Even Look Once: Synthesizing Features for Zero-Shot Detection.** [[Paper]](https://arxiv.org/pdf/1911.07933.pdf) - Hogun
 
+4. Zhibo Yang, Lihan Huang, Yupei Chen, Zijun Wei, Seoyoung Ahn, Gregory Zelinsky, Dimitris Samaras, Minh Hoai. **"Predicting Goal-directed Human Attention Using Inverse Reinforcement Learning"**  [[Paper]](https://arxiv.org/pdf/2005.14310.pdf) [[Code]](https://github.com/cvlab-stonybrook/Scanpath_Prediction) - Obin
+
+5. Chenchen Liu, Yang Jin, Kehan Xu, Guoqiang Gong, Yadong Mu, **Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) - Obin
+
 ### Pose-Estimation
 1. He, Yisheng, et al. **PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation.** [[Paper]](https://arxiv.org/pdf/1911.04231.pdf) [[Code]](https://github.com/ethnhe/PVN3D) - Hogun
 
