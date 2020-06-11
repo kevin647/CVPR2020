@@ -7,7 +7,7 @@
   - [Object-Detection](#object-detection)
   - [Pose-Estimation](#pose-estimation)
   - [Feature-Detection](#feature-detection)
-  - [Sim-to-Real].(#sim-to-real)
+  - [Sim-to-Real](#sim-to-real)
 
 
 
