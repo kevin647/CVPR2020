@@ -3,7 +3,7 @@
 
 ## Table of Contents
   - [Visual-Language Grounding](#visual-language-grounding)
-  - [Visual-Navigation Simulator](#visual-navigation-simulator)
+  - [Visual-Navigation](#visual-navigation)
   - [Object-Detection](#object-detection)
   - [Pose-Estimation](#pose-estimation)
   - [Feature-Detection](#feature-detection)
@@ -19,8 +19,10 @@
 5. Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang, **More Grounded Image Captioning by Distilling Image-Text Matching Model** [[Paper]](https://arxiv.org/pdf/2004.00390.pdf) [[Code]](https://github.com/YuanEZhou/Grounded-Image-Captioning) - Nuri
 6. Runhao Zeng, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chuang Gan, **Dense Regression Network for Video Grounding** [[Paper]](https://arxiv.org/pdf/2004.03545.pdf) - Nuri
 
-### Visual-Navigation Simulator:
+### Visual-Navigation:
 1. Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox, **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** [[Paper]](https://arxiv.org/pdf/1912.01734.pdf) [[Code]](https://github.com/askforalfred/alfred) [[Project Page]](https://askforalfred.com/) - Nuri
+
+2. Devendra Singh Chaplot, Ruslan Salakhutdinov, Abhinav Gupta, Saurabh Gupta, **Neural Topological SLAM for Visual Navigation** [[Paper]](http://www.cs.cmu.edu/~dchaplot/papers/cvpr20_neural_topological_slam.pdf) [[Project Page]](http://www.cs.cmu.edu/~dchaplot/projects/neural-topological-slam.html) - Yunho
 
 ### Object-Detection
 1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
