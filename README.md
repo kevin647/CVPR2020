@@ -3,8 +3,8 @@
 
 ## Table of Contents
   - [Visual-Language Grounding](#visual-language-grounding)
-    -[Video-Language Grounding](#video-language-grounding)
-    -[Object-Referring Grounding](#object-referring-grounding)
+    - [Video-Language Grounding](#video-language-grounding)
+    - [Object-Referring Grounding](#object-referring-grounding)
   - [Visual Navigation](#visual-navigation)
   - [Object Detection](#object-detection)
     - [Domain Adaptation Object Detection](#domain-adaptation-object-detection)
@@ -19,8 +19,7 @@
 
 1. Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, et al. **Embodied Language Grounding With 3D Visual Feature Representations.** [[Paper]](https://arxiv.org/pdf/1910.01210.pdf) - Nuri
 
-
-5. Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang, **More Grounded Image Captioning by Distilling Image-Text Matching Model** [[Paper]](https://arxiv.org/pdf/2004.00390.pdf) [[Code]](https://github.com/YuanEZhou/Grounded-Image-Captioning) - Nuri
+1. Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang, **More Grounded Image Captioning by Distilling Image-Text Matching Model** [[Paper]](https://arxiv.org/pdf/2004.00390.pdf) [[Code]](https://github.com/YuanEZhou/Grounded-Image-Captioning) - Nuri
 
 ### Video-Language Grounding
 
@@ -34,7 +33,7 @@
 
 ### Object Referring Grounding
 
-1. Sibei Yang, Guanbin Li, Yizhou Yu **Graph-Structured Referring Expression Reasoning in the Wild**, Oral [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [[Code]](https://github.com/sibeiyang/sgmn)
+1. Sibei Yang, Guanbin Li, Yizhou Yu **Graph-Structured Referring Expression Reasoning in the Wild**, Oral [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [[Code]](https://github.com/sibeiyang/sgmn) - Nuri
 
 ### Visual Navigation:
 1. Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox, **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** [[Paper]](https://arxiv.org/pdf/1912.01734.pdf) [[Code]](https://github.com/askforalfred/alfred) [[Project Page]](https://askforalfred.com/) - Nuri
