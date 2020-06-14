@@ -1,5 +1,5 @@
 # CVPR2020
-[CVPR2020 paper list](http://cvpr2020.thecvf.com/program/main-conference)
+[CVPR2020 paper list](http://openaccess.thecvf.com/CVPR2020.py)
 
 ## Table of Contents
   - [Visual-Language Grounding](#visual-language-grounding)
@@ -8,6 +8,7 @@
   - [Pose-Estimation](#pose-estimation)
   - [Feature-Detection](#feature-detection)
   - [Sim-to-Real](#sim-to-real)
+  - [Human-Object Interaction](#human-object-interaction)
 
 
 
@@ -50,3 +51,7 @@
 ### Sim-to-Real
 1. Kanishka Rao, Chris Harris, Alex Irpan, Sergey Levine, Julian Ibarz, and Mohi Khansari **RL-CycleGAN: Reinforcement Learning Aware Simulation-To-Real.** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Rao_RL-CycleGAN_Reinforcement_Learning_Aware_Simulation-to-Real_CVPR_2020_paper.pdf) - Yunho
 
+
+### Human-Object Interaction
+
+1. Oytun Ulutan, A S M Iftekhar, B. S. Manjunath	**	VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ulutan_VSGNet_Spatial_Attention_Network_for_Detecting_Human_Object_Interactions_Using_CVPR_2020_paper.pdf) [[Code]](https://github.com/ASMIftekhar/VSGNet) - Nuri
