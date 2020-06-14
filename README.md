@@ -5,6 +5,7 @@
   - [Visual-Language Grounding](#visual-language-grounding)
   - [Visual-Navigation](#visual-navigation)
   - [Object-Detection](#object-detection)
+  - [Domain Adaptation Object Detection](#domain-adaptation-object-detection)
   - [Pose-Estimation](#pose-estimation)
   - [Feature-Detection](#feature-detection)
   - [Sim-to-Real](#sim-to-real)
@@ -36,6 +37,9 @@
 
 5. Chenchen Liu, Yang Jin, Kehan Xu, Guoqiang Gong, Yadong Mu, **Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) - Obin
 
+### Domain-Adaption Object-Detection
+1. Yangtao Zheng, Di Huang, Songtao Liu, Yunhong Wang **Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Cross-domain_Object_Detection_through_Coarse-to-Fine_Feature_Adaptation_CVPR_2020_paper.pdf)
+
 ### Pose-Estimation
 1. He, Yisheng, et al. **PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation.** [[Paper]](https://arxiv.org/pdf/1911.04231.pdf) [[Code]](https://github.com/ethnhe/PVN3D) - Hogun
 
@@ -54,4 +58,4 @@
 
 ### Human-Object Interaction
 
-1. Oytun Ulutan, A S M Iftekhar, B. S. Manjunath	**	VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ulutan_VSGNet_Spatial_Attention_Network_for_Detecting_Human_Object_Interactions_Using_CVPR_2020_paper.pdf) [[Code]](https://github.com/ASMIftekhar/VSGNet) - Nuri
+1. Oytun Ulutan, A S M Iftekhar, B. S. Manjunath	**VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ulutan_VSGNet_Spatial_Attention_Network_for_Detecting_Human_Object_Interactions_Using_CVPR_2020_paper.pdf) [[Code]](https://github.com/ASMIftekhar/VSGNet) - Nuri
