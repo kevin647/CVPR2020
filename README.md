@@ -3,6 +3,8 @@
 
 ## Table of Contents
   - [Visual-Language Grounding](#visual-language-grounding)
+    -[Video-Language Grounding](#video-language-grounding)
+    -[Object-Referring Grounding](#object-referring-grounding)
   - [Visual Navigation](#visual-navigation)
   - [Object Detection](#object-detection)
     - [Domain Adaptation Object Detection](#domain-adaptation-object-detection)
@@ -14,12 +16,25 @@
 
 
 ### Visual-Language Grounding:
+
 1. Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, et al. **Embodied Language Grounding With 3D Visual Feature Representations.** [[Paper]](https://arxiv.org/pdf/1910.01210.pdf) - Nuri
-2. Arka Sadhu, Kan Chen, Ram Nevatia, **Video Object Grounding Using Semantic Roles in Language Description** [[Paper]](https://arxiv.org/pdf/2003.10606.pdf) [[Code]](https://github.com/TheShadow29/vognet-pytorch) - Nuri
-3. Zhu Zhang, Zhou Zhao, Yang Zhao, Qi Wang, Huasheng Liu, Lianli Gao, **Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences** [[Paper]](https://arxiv.org/pdf/2001.06891.pdf) [[Dataset]](https://github.com/Guaranteer/VidSTG-Dataset) - Nuri
-4. Gunnar A. Sigurdsson, Jean-Baptiste Alayrac, Aida Nematzadeh, Lucas Smaira, Mateusz Malinowski, João Carreira, Phil Blunsom, Andrew Zisserman, **Visual Grounding in Video for Unsupervised Word Translation** [[Paper]](https://arxiv.org/pdf/2003.05078.pdf) [[Code]](https://github.com/gsig/visual-grounding) - Nuri
+
+
 5. Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang, **More Grounded Image Captioning by Distilling Image-Text Matching Model** [[Paper]](https://arxiv.org/pdf/2004.00390.pdf) [[Code]](https://github.com/YuanEZhou/Grounded-Image-Captioning) - Nuri
-6. Runhao Zeng, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chuang Gan, **Dense Regression Network for Video Grounding** [[Paper]](https://arxiv.org/pdf/2004.03545.pdf) - Nuri
+
+### Video-Language Grounding
+
+1. Gunnar A. Sigurdsson, Jean-Baptiste Alayrac, Aida Nematzadeh, Lucas Smaira, Mateusz Malinowski, João Carreira, Phil Blunsom, Andrew Zisserman, **Visual Grounding in Video for Unsupervised Word Translation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Sigurdsson_Visual_Grounding_in_Video_for_Unsupervised_Word_Translation_CVPR_2020_paper.pdf) [[Code]](https://github.com/gsig/visual-grounding) - Nuri
+
+1. Runhao Zeng, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chuang Gan, **Dense Regression Network for Video Grounding** [[Paper]](https://arxiv.org/pdf/2004.03545.pdf) - Nuri
+
+1. Zhu Zhang, Zhou Zhao, Yang Zhao, Qi Wang, Huasheng Liu, Lianli Gao, **Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences** [[Paper]](https://arxiv.org/pdf/2001.06891.pdf) [[Dataset]](https://github.com/Guaranteer/VidSTG-Dataset) - Nuri
+
+1. Arka Sadhu, Kan Chen, Ram Nevatia, **Video Object Grounding Using Semantic Roles in Language Description** [[Paper]](https://arxiv.org/pdf/2003.10606.pdf) [[Code]](https://github.com/TheShadow29/vognet-pytorch) - Nuri
+
+### Object Referring Grounding
+
+1. Sibei Yang, Guanbin Li, Yizhou Yu **Graph-Structured Referring Expression Reasoning in the Wild**, Oral [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [[Code]](https://github.com/sibeiyang/sgmn)
 
 ### Visual Navigation:
 1. Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox, **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** [[Paper]](https://arxiv.org/pdf/1912.01734.pdf) [[Code]](https://github.com/askforalfred/alfred) [[Project Page]](https://askforalfred.com/) - Nuri
