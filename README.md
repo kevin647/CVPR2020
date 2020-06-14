@@ -3,11 +3,11 @@
 
 ## Table of Contents
   - [Visual-Language Grounding](#visual-language-grounding)
-  - [Visual-Navigation](#visual-navigation)
-  - [Object-Detection](#object-detection)
-  - [Domain Adaptation Object Detection](#domain-adaptation-object-detection)
-  - [Pose-Estimation](#pose-estimation)
-  - [Feature-Detection](#feature-detection)
+  - [Visual Navigation](#visual-navigation)
+  - [Object Detection](#object-detection)
+    - [Domain Adaptation Object Detection](#domain-adaptation-object-detection)
+  - [Pose Estimation](#pose-estimation)
+  - [Feature Detection](#feature-detection)
   - [Sim-to-Real](#sim-to-real)
   - [Human-Object Interaction](#human-object-interaction)
 
@@ -21,12 +21,12 @@
 5. Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang, **More Grounded Image Captioning by Distilling Image-Text Matching Model** [[Paper]](https://arxiv.org/pdf/2004.00390.pdf) [[Code]](https://github.com/YuanEZhou/Grounded-Image-Captioning) - Nuri
 6. Runhao Zeng, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chuang Gan, **Dense Regression Network for Video Grounding** [[Paper]](https://arxiv.org/pdf/2004.03545.pdf) - Nuri
 
-### Visual-Navigation:
+### Visual Navigation:
 1. Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox, **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** [[Paper]](https://arxiv.org/pdf/1912.01734.pdf) [[Code]](https://github.com/askforalfred/alfred) [[Project Page]](https://askforalfred.com/) - Nuri
 
 2. Devendra Singh Chaplot, Ruslan Salakhutdinov, Abhinav Gupta, Saurabh Gupta, **Neural Topological SLAM for Visual Navigation** [[Paper]](http://www.cs.cmu.edu/~dchaplot/papers/cvpr20_neural_topological_slam.pdf) [[Project Page]](http://www.cs.cmu.edu/~dchaplot/projects/neural-topological-slam.html) - Yunho
 
-### Object-Detection
+### Object Detection
 1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
 
 2. Perez-Rua, Juan-Manuel, et al. **Incremental Few-Shot Object Detection.** [[Paper]](https://arxiv.org/pdf/2003.04668.pdf) - Hogun
@@ -37,17 +37,17 @@
 
 5. Chenchen Liu, Yang Jin, Kehan Xu, Guoqiang Gong, Yadong Mu, **Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) - Obin
 
-### Domain-Adaption Object-Detection
-1. Yangtao Zheng, Di Huang, Songtao Liu, Yunhong Wang **Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Cross-domain_Object_Detection_through_Coarse-to-Fine_Feature_Adaptation_CVPR_2020_paper.pdf) -Nuri
+### Domain Adaptation Object Detection
+1. Yangtao Zheng, Di Huang, Songtao Liu, Yunhong Wang **Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Cross-domain_Object_Detection_through_Coarse-to-Fine_Feature_Adaptation_CVPR_2020_paper.pdf) - Nuri
 
-### Pose-Estimation
+### Pose Estimation
 1. He, Yisheng, et al. **PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation.** [[Paper]](https://arxiv.org/pdf/1911.04231.pdf) [[Code]](https://github.com/ethnhe/PVN3D) - Hogun
 
 2. Liu, Xingyu, et al. **KeyPose: Multi-View 3D Labeling and Keypoint Estimationfor Transparent Objects.** [[Paper]](https://arxiv.org/pdf/1912.02805.pdf) [[Project Page]](https://sites.google.com/view/keypose) - Hogun
 
 3. Xiaolong Li, He Wang et al. **ANCSH: Category-Level Articulated Object Pose Estimation.** [[paper]](https://arxiv.org/pdf/1912.11913.pdf) [[Project Page]](https://articulated-pose.github.io/) [[Code]](https://github.com/dragonlong/articulated-pose) - Dohyeong
 
-### Feature-Detection
+### Feature Detection
 1. Paul-Edouard Sarlin, et al., **SuperGlue: Learning Feature Matching with Graph Neural Networks.** [[Paper]](https://arxiv.org/pdf/1911.11763.pdf) [[Code]](https://github.com/magicleap/SuperGluePretrainedNetwork) - Yunho
 
 2. Aritra Bhowmik, et al., **Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task.** [[Paper]](https://arxiv.org/pdf/1912.00623.pdf) - Yunho
