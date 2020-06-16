@@ -41,7 +41,7 @@
 
 2. Devendra Singh Chaplot, Ruslan Salakhutdinov, Abhinav Gupta, Saurabh Gupta, **Neural Topological SLAM for Visual Navigation** [[Paper]](http://www.cs.cmu.edu/~dchaplot/papers/cvpr20_neural_topological_slam.pdf) [[Project Page]](http://www.cs.cmu.edu/~dchaplot/projects/neural-topological-slam.html) - Yunho
 
-3. Yi Zhu, Fengda Zhu, Zhaohuan Zhan, Bingqian Lin, Jianbin Jiao, Xiaojun Chang, Xiaodan Liang, **Vision-Dialog Navigation by Exploring Cross-Modal Memory** [[Paper]]http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Vision-Dialog_Navigation_by_Exploring_Cross-Modal_Memory_CVPR_2020_paper.pdf - Obin
+3. Yi Zhu, Fengda Zhu, Zhaohuan Zhan, Bingqian Lin, Jianbin Jiao, Xiaojun Chang, Xiaodan Liang, **Vision-Dialog Navigation by Exploring Cross-Modal Memory** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Vision-Dialog_Navigation_by_Exploring_Cross-Modal_Memory_CVPR_2020_paper.pdf) - Obin
 
 ### Object Detection
 1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
