@@ -56,6 +56,8 @@
 
 7. Yuankai Qi, Qi Wu, Peter Anderson, Xin Wang, William Yang Wang, Chunhua Shen, Anton van den Hengel, **REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments.** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_REVERIE_Remote_Embodied_Visual_Referring_Expression_in_Real_Indoor_Environments_CVPR_2020_paper.pdf) - [[Obin]](https://www.notion.so/obstudy/941787944cf4495d893d91e5c6ffa9ab)
 
+8. Marin Toromanoff, Emilie Wirbel, Fabien Moutarde, **End-to-End Model-Free Reinforcement Learning for Urban Driving Using Implicit Affordances** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Toromanoff_End-to-End_Model-Free_Reinforcement_Learning_for_Urban_Driving_Using_Implicit_Affordances_CVPR_2020_paper.pdf) - Timothy
+
 ### Object Detection
 1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
 
