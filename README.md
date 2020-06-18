@@ -99,7 +99,7 @@
 5. Hamid Izadinia, Steven M. Seitz **Scene Recomposition by Learning-Based ICP** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Izadinia_Scene_Recomposition_by_Learning-Based_ICP_CVPR_2020_paper.pdf) - Seunggyu
 
 ### Motion and Tracking ###
-1. Enric Corona, Albert Pumarola, Guillem Alenyà, Francesc Moreno-Noguer **Context-Aware Human Motion Prediction** [[Paper]] (http://openaccess.thecvf.com/content_CVPR_2020/papers/Corona_Context-Aware_Human_Motion_Prediction_CVPR_2020_paper.pdf) - Seunggyu
+1. Enric Corona, Albert Pumarola, Guillem Alenyà, Francesc Moreno-Noguer **Context-Aware Human Motion Prediction** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Corona_Context-Aware_Human_Motion_Prediction_CVPR_2020_paper.pdf) [[Video]](http://cvpr20.com/event/context-aware-human-motion-prediction/) - Seunggyu
 
-2. Bardia Doosti, Shujon Naha, Majid Mirbagheri, David J. Crandall **HOPE-Net: A Graph-Based Model for Hand-Object Pose Estimation** [[Paper]] (http://openaccess.thecvf.com/content_CVPR_2020/papers/Doosti_HOPE-Net_A_Graph-Based_Model_for_Hand-Object_Pose_Estimation_CVPR_2020_paper.pdf) -Seunggyu
+2. Bardia Doosti, Shujon Naha, Majid Mirbagheri, David J. Crandall **HOPE-Net: A Graph-Based Model for Hand-Object Pose Estimation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Doosti_HOPE-Net_A_Graph-Based_Model_for_Hand-Object_Pose_Estimation_CVPR_2020_paper.pdf) [[Video]](http://cvpr20.com/event/hope-net-a-graph-based-model-for-hand-object-pose-estimation/)-Seunggyu
 
