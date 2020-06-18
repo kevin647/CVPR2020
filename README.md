@@ -16,6 +16,7 @@
   - [Human-Object Interaction](#human-object-interaction)
   - [3D From a Single Image](#3d-from-a-single-image)
   - [Motion and Tracking](#motion-and-tracking)
+  - [Trajectory Prediction](#trajectory-predicton)
 
 
 ### Visual-Language Grounding:
@@ -66,7 +67,7 @@
 
 5. Chenchen Liu, Yang Jin, Kehan Xu, Guoqiang Gong, Yadong Mu, **Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context.** [[Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) - Obin
 
-6. Haiyang Mei, Xin Yang, Yang Wang, Yuanyuan Liu, Shengfeng He, Qiang Zhang, Xiaopeng Wei, Rynson W.H. Lau.  **Don’t Hit Me! Glass Detection in Real-World Scenes** [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mei_Dont_Hit_Me_Glass_Detection_in_Real-World_Scenes_CVPR_2020_paper.pdf) - Wooseok
+6. Haiyang Mei, Xin Yang, Yang Wang, Yuanyuan Liu, Shengfeng He, Qiang Zhang, Xiaopeng Wei, Rynson W.H. Lau.  **Don’t Hit Me! Glass Detection in Real-World Scenes** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mei_Dont_Hit_Me_Glass_Detection_in_Real-World_Scenes_CVPR_2020_paper.pdf) - Wooseok
 
 ### Domain Adaptation Object Detection
 1. Yangtao Zheng, Di Huang, Songtao Liu, Yunhong Wang **Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation.** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Cross-domain_Object_Detection_through_Coarse-to-Fine_Feature_Adaptation_CVPR_2020_paper.pdf) [[Video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/8151/8151-1min.mp4) - Nuri
@@ -109,4 +110,8 @@
 1. Enric Corona, Albert Pumarola, Guillem Alenyà, Francesc Moreno-Noguer **Context-Aware Human Motion Prediction.** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Corona_Context-Aware_Human_Motion_Prediction_CVPR_2020_paper.pdf) [[Video]](http://cvpr20.com/event/context-aware-human-motion-prediction/) - Seunggyu
 
 2. Bardia Doosti, Shujon Naha, Majid Mirbagheri, David J. Crandall **HOPE-Net: A Graph-Based Model for Hand-Object Pose Estimation.** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Doosti_HOPE-Net_A_Graph-Based_Model_for_Hand-Object_Pose_Estimation_CVPR_2020_paper.pdf) [[Video]](http://cvpr20.com/event/hope-net-a-graph-based-model-for-hand-object-pose-estimation/)-Seunggyu
+
+### Trajectory Prediction ###
+
+1. Junwei Liang, Lu Jiang, Kevin Murphy, Ting Yu, Alexander Hauptmann **The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction** [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_The_Garden_of_Forking_Paths_Towards_Multi-Future_Trajectory_Prediction_CVPR_2020_paper.pdf) -Wooseok
 
