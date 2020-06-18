@@ -1,7 +1,7 @@
 ### Don’t Hit Me! Glass Detection in Real-World Scenes
 - **presentation** [[video]](http://cvpr20.com/event/dont-hit-me-glass-detection-in-real-world-scenes2nd-time/)
 - Motivation
-    - ![motive](./img/Don't_Hit_me_motive.PNG)
+    - ![motive](./img/Don't_Hit_Me_motive.PNG)
 - Method
 - Glass Detection Dataset (GDD)
 - Result
