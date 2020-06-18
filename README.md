@@ -115,3 +115,4 @@
 
 1. Junwei Liang, Lu Jiang, Kevin Murphy, Ting Yu, Alexander Hauptmann **The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction** [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_The_Garden_of_Forking_Paths_Towards_Multi-Future_Trajectory_Prediction_CVPR_2020_paper.pdf) - Wooseok
 
+2. Yue Wu, Rongrong Gao, Jaesik Park, Qifeng Chen **Future Video Synthesis with Object Motion Prediction** [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Future_Video_Synthesis_With_Object_Motion_Prediction_CVPR_2020_paper.pdf) - Timothy
