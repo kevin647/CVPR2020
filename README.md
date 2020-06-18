@@ -36,12 +36,12 @@
 
 ### Object Referring Grounding
 
-1. Sibei Yang, Guanbin Li, Yizhou Yu **Graph-Structured Referring Expression Reasoning in the Wild**, Oral [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [[Code]](https://github.com/sibeiyang/sgmn) [[video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/2703/2703-oral.mp4) - Nuri
+1. Sibei Yang, Guanbin Li, Yizhou Yu **Graph-Structured Referring Expression Reasoning in the Wild**, Oral [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [[Code]](https://github.com/sibeiyang/sgmn) [[video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/2703/2703-oral.mp4) - [[Nuri]](nuri.md/#graph-structured-referring-expression-reasoning-in-the-wild))
 
 2. Zhibo Yang, Lihan Huang, Yupei Chen, Zijun Wei, Seoyoung Ahn, Gregory Zelinsky, Dimitris Samaras, Minh Hoai	**Predicting Goal-Directed Human Attention Using Inverse Reinforcement Learning** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Predicting_Goal-Directed_Human_Attention_Using_Inverse_Reinforcement_Learning_CVPR_2020_paper.pdf) - Hwiyeon
 
 ### Visual Navigation:
-1. Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox, **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** [[Paper]](https://arxiv.org/pdf/1912.01734.pdf) [[Code]](https://github.com/askforalfred/alfred) [[Project Page]](https://askforalfred.com/) [[presentation]](https://youtu.be/1XoRLNmXffo) - Nuri
+1. Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox, **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** [[Paper]](https://arxiv.org/pdf/1912.01734.pdf) [[Code]](https://github.com/askforalfred/alfred) [[Project Page]](https://askforalfred.com/) [[PresentationVideo]](https://youtu.be/1XoRLNmXffo) - [[Nuri]](nuri.md/#alfred-a-benchmark-for-interpreting-grounded-instructions-for-everyday-tasks)
 
 2. Devendra Singh Chaplot, Ruslan Salakhutdinov, Abhinav Gupta, Saurabh Gupta, **Neural Topological SLAM for Visual Navigation** [[Paper]](http://www.cs.cmu.edu/~dchaplot/papers/cvpr20_neural_topological_slam.pdf) [[Project Page]](http://www.cs.cmu.edu/~dchaplot/projects/neural-topological-slam.html) - Yunho
 
