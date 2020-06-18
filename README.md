@@ -66,6 +66,8 @@
 
 5. Chenchen Liu, Yang Jin, Kehan Xu, Guoqiang Gong, Yadong Mu, **Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context.** [[Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) - Obin
 
+6. Haiyang Mei, Xin Yang, Yang Wang, Yuanyuan Liu, Shengfeng He, Qiang Zhang, Xiaopeng Wei, Rynson W.H. Lau.  **Don’t Hit Me! Glass Detection in Real-World Scenes** [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mei_Dont_Hit_Me_Glass_Detection_in_Real-World_Scenes_CVPR_2020_paper.pdf) - Wooseok
+
 ### Domain Adaptation Object Detection
 1. Yangtao Zheng, Di Huang, Songtao Liu, Yunhong Wang **Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation.** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Cross-domain_Object_Detection_through_Coarse-to-Fine_Feature_Adaptation_CVPR_2020_paper.pdf) [[Video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/8151/8151-1min.mp4) - Nuri
 
