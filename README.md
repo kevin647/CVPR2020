@@ -51,7 +51,9 @@
 
 5. Fengda Zhu, Yi Zhu, Xiaojun Chang, Xiaodan Liang	**Vision-Language Navigation With Self-Supervised Auxiliary Reasoning Tasks** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Vision-Language_Navigation_With_Self-Supervised_Auxiliary_Reasoning_Tasks_CVPR_2020_paper.pdf) - Hwiyeon
 
-6. Juncheng Li, Xin Wang, Siliang Tang, Haizhou Shi, Fei Wu, Yueting Zhuang, William Yang Wang, **Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Unsupervised_Reinforcement_Learning_of_Transferable_Meta-Skills_for_Embodied_Navigation_CVPR_2020_paper.pdf)
+6. Juncheng Li, Xin Wang, Siliang Tang, Haizhou Shi, Fei Wu, Yueting Zhuang, William Yang Wang, **Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Unsupervised_Reinforcement_Learning_of_Transferable_Meta-Skills_for_Embodied_Navigation_CVPR_2020_paper.pdf) - [[Obin]](https://www.notion.so/obstudy/Unsupervised-Reinforcement-Learning-of-Transferable-Meta-Skills-for-Embodied-Navigation-c19c6fb0fb644b54af2b57e5e4d9f3c8)
+
+7. Yuankai Qi, Qi Wu, Peter Anderson, Xin Wang, William Yang Wang, Chunhua Shen, Anton van den Hengel, **REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_REVERIE_Remote_Embodied_Visual_Referring_Expression_in_Real_Indoor_Environments_CVPR_2020_paper.pdf) - [[Obin]](https://www.notion.so/obstudy/941787944cf4495d893d91e5c6ffa9ab)
 
 ### Object Detection
 1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
@@ -60,9 +62,9 @@
 
 3. Zhu, Pengkai, Hanxiao Wang, and Venkatesh Saligrama. **Dont Even Look Once: Synthesizing Features for Zero-Shot Detection.** [[Paper]](https://arxiv.org/pdf/1911.07933.pdf) - Hogun
 
-4. Zhibo Yang, Lihan Huang, Yupei Chen, Zijun Wei, Seoyoung Ahn, Gregory Zelinsky, Dimitris Samaras, Minh Hoai. **"Predicting Goal-directed Human Attention Using Inverse Reinforcement Learning"**  [[Paper]](https://arxiv.org/pdf/2005.14310.pdf) [[Code]](https://github.com/cvlab-stonybrook/Scanpath_Prediction) - Obin
+4. Zhibo Yang, Lihan Huang, Yupei Chen, Zijun Wei, Seoyoung Ahn, Gregory Zelinsky, Dimitris Samaras, Minh Hoai. **"Predicting Goal-directed Human Attention Using Inverse Reinforcement Learning"**  [[Paper]](https://arxiv.org/pdf/2005.14310.pdf) [[Code]](https://github.com/cvlab-stonybrook/Scanpath_Prediction) - [[Obin]](https://www.notion.so/obstudy/Predicting-Goal-directed-Human-Attention-Using-IRL-45f2d11189654523a1d53c8f143fa1b9)
 
-5. Chenchen Liu, Yang Jin, Kehan Xu, Guoqiang Gong, Yadong Mu, **Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) - Obin
+5. Chenchen Liu, Yang Jin, Kehan Xu, Guoqiang Gong, Yadong Mu, **Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context** [[Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) - Obin
 
 ### Domain Adaptation Object Detection
 1. Yangtao Zheng, Di Huang, Songtao Liu, Yunhong Wang **Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Cross-domain_Object_Detection_through_Coarse-to-Fine_Feature_Adaptation_CVPR_2020_paper.pdf) - Nuri
