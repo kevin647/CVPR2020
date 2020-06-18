@@ -49,6 +49,8 @@
 
 5. Fengda Zhu, Yi Zhu, Xiaojun Chang, Xiaodan Liang	**Vision-Language Navigation With Self-Supervised Auxiliary Reasoning Tasks** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Vision-Language_Navigation_With_Self-Supervised_Auxiliary_Reasoning_Tasks_CVPR_2020_paper.pdf) - Hwiyeon
 
+6. Juncheng Li, Xin Wang, Siliang Tang, Haizhou Shi, Fei Wu, Yueting Zhuang, William Yang Wang, **Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Unsupervised_Reinforcement_Learning_of_Transferable_Meta-Skills_for_Embodied_Navigation_CVPR_2020_paper.pdf)
+
 ### Object Detection
 1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
 
