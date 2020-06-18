@@ -86,4 +86,6 @@
 
 3. Yinyu Nie, Xiaoguang Han, Shihui Guo, Yujian Zheng, Jian Chang, Jian Jun Zhang **Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Nie_Total3DUnderstanding_Joint_Layout_Object_Pose_and_Mesh_Reconstruction_for_Indoor_CVPR_2020_paper.pdf) - Kyungjae
 
-4. 	Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong **Deep 3D Portrait from a Single Image** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Deep_3D_Portrait_From_a_Single_Image_CVPR_2020_paper.pdf) - Seunggyu
+4. Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong **Deep 3D Portrait from a Single Image** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Deep_3D_Portrait_From_a_Single_Image_CVPR_2020_paper.pdf) - Seunggyu
+
+5. Hamid Izadinia, Steven M. Seitz **Scene Recomposition by Learning-Based ICP** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Izadinia_Scene_Recomposition_by_Learning-Based_ICP_CVPR_2020_paper.pdf) - Seunggyu
