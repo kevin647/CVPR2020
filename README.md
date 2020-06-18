@@ -13,9 +13,6 @@
   - [Sim-to-Real](#sim-to-real)
   - [Human-Object Interaction](#human-object-interaction)
   - [3D From a Single Image](#3d-from-a-single-image)
-  - [Vision for Robotics and Autonomous Vehicles](#vision-for-robotics-and-autonomous-vehicles)
-  - [Action and Behavior](#action-and-behavior)
-  - [Vision & Language](#vision-&-language)
 
 
 
@@ -39,12 +36,18 @@
 
 1. Sibei Yang, Guanbin Li, Yizhou Yu **Graph-Structured Referring Expression Reasoning in the Wild**, Oral [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [[Code]](https://github.com/sibeiyang/sgmn) [[video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/2703/2703-oral.mp4) - Nuri
 
+2. Zhibo Yang, Lihan Huang, Yupei Chen, Zijun Wei, Seoyoung Ahn, Gregory Zelinsky, Dimitris Samaras, Minh Hoai	**Predicting Goal-Directed Human Attention Using Inverse Reinforcement Learning** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Predicting_Goal-Directed_Human_Attention_Using_Inverse_Reinforcement_Learning_CVPR_2020_paper.pdf) - Hwiyeon
+
 ### Visual Navigation:
 1. Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox, **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** [[Paper]](https://arxiv.org/pdf/1912.01734.pdf) [[Code]](https://github.com/askforalfred/alfred) [[Project Page]](https://askforalfred.com/) - Nuri
 
 2. Devendra Singh Chaplot, Ruslan Salakhutdinov, Abhinav Gupta, Saurabh Gupta, **Neural Topological SLAM for Visual Navigation** [[Paper]](http://www.cs.cmu.edu/~dchaplot/papers/cvpr20_neural_topological_slam.pdf) [[Project Page]](http://www.cs.cmu.edu/~dchaplot/projects/neural-topological-slam.html) - Yunho
 
 3. Yi Zhu, Fengda Zhu, Zhaohuan Zhan, Bingqian Lin, Jianbin Jiao, Xiaojun Chang, Xiaodan Liang, **Vision-Dialog Navigation by Exploring Cross-Modal Memory** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Vision-Dialog_Navigation_by_Exploring_Cross-Modal_Memory_CVPR_2020_paper.pdf) - Obin
+
+4. Thomas Roddick, Roberto Cipolla	**Predicting Semantic Map Representations From Images Using Pyramid Occupancy Networks** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Roddick_Predicting_Semantic_Map_Representations_From_Images_Using_Pyramid_Occupancy_Networks_CVPR_2020_paper.pdf) - Hwiyeon
+
+5. Fengda Zhu, Yi Zhu, Xiaojun Chang, Xiaodan Liang	**Vision-Language Navigation With Self-Supervised Auxiliary Reasoning Tasks** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Vision-Language_Navigation_With_Self-Supervised_Auxiliary_Reasoning_Tasks_CVPR_2020_paper.pdf) - Hwiyeon
 
 ### Object Detection
 1. Wu Jialian, Zhou Chunluan, Yang Ming, et al. **Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians.** [[Paper]](https://cse.buffalo.edu/~jsyuan/papers/2020/TFAN.pdf) - Kyungdo
@@ -93,14 +96,4 @@
 
 5. Hamid Izadinia, Steven M. Seitz **Scene Recomposition by Learning-Based ICP** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Izadinia_Scene_Recomposition_by_Learning-Based_ICP_CVPR_2020_paper.pdf) - Seunggyu
 
-### Vision for Robotics and Autonomous Vehicles
 
-1. Thomas Roddick, Roberto Cipolla	**Predicting Semantic Map Representations From Images Using Pyramid Occupancy Networks** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Roddick_Predicting_Semantic_Map_Representations_From_Images_Using_Pyramid_Occupancy_Networks_CVPR_2020_paper.pdf) - Hwiyeon
-
-### Action and Behavior
-
-1. Zhibo Yang, Lihan Huang, Yupei Chen, Zijun Wei, Seoyoung Ahn, Gregory Zelinsky, Dimitris Samaras, Minh Hoai	**Predicting Goal-Directed Human Attention Using Inverse Reinforcement Learning** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Predicting_Goal-Directed_Human_Attention_Using_Inverse_Reinforcement_Learning_CVPR_2020_paper.pdf) - Hwiyeon
-
-### Vision & Language
-
-1. Fengda Zhu, Yi Zhu, Xiaojun Chang, Xiaodan Liang	**Vision-Language Navigation With Self-Supervised Auxiliary Reasoning Tasks** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Vision-Language_Navigation_With_Self-Supervised_Auxiliary_Reasoning_Tasks_CVPR_2020_paper.pdf) - Hwiyeon
