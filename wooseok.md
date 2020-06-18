@@ -4,9 +4,15 @@
     - ![motive](./img/Don't_Hit_Me_motive.PNG)
 - Method
     - ![netword](./img/Don't_Hit_Me_Netword.PNG)
+        - consider low level cues & high level contexts
+        - use LCFI module to generate multi-scale large-field contextual features
     - ![module](./img/Don't_Hit_Me_LCFI_module.PNG)
+        - can harvest contextual features from fields of different scales
 - Glass Detection Dataset (GDD)
     - ![dataset](./img/Don't_Hit_Me_Dataset.PNG)
+        - 3916 pairs of glass and glass mask images
+        - 2827 indoor images
+        - 1089 outdoor images
 - Result
     - ![result](./img/Don't_Hit_Me_result.PNG)
     - ![result_image](./img/Don't_Hit_Me_result_image.PNG)
