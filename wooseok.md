@@ -2,6 +2,7 @@
 - **presentation** [[video]](http://cvpr20.com/event/dont-hit-me-glass-detection-in-real-world-scenes2nd-time/)
 - Motivation
     - ![motive](./img/Don't_Hit_Me_motive.PNG)
+        - glass objects have a critical impact to the vision tasks
 - Method
     - ![netword](./img/Don't_Hit_Me_Netword.PNG)
         - consider low level cues & high level contexts
@@ -20,8 +21,25 @@
 ### The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction
 - **presentation** [[video]](http://cvpr20.com/event/the-garden-of-forking-paths-towards-multi-future-trajectory-prediction/)
 - Motivation
+    - ![motive](./img/Forking_Pahts_motive.PNG)
 - Method (Network)
+    - ![network](./img/Forking_Pahts_network.PNG)
+        - History encoder
+            - input : history of frames -> segmentation , history of past locations
+            - use Conv RNN
+            - output : feature
+        - Coarse Location Decoder
+            - input : feature
+            - use Conv RNN & graph attention 
+            - output : distribution over grid locations at time t (belief state) 
+        - Fine Location Decoder
+            - input : feature
+            - use Conv RNN & graph attention
+            - output : offset vector for each possible grid cell
+        - use beam search for k-trajectories (top k)
 - The Forking Paths Dataset
+    - [(video)](https://youtu.be/RW45YQHxIhk)
 - Result (+ video)
+    - ![result](./img/Forking_Pahts_result.PNG)
 
 
