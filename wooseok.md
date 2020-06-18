@@ -39,6 +39,9 @@
         - use beam search for k-trajectories (top k)
 - The Forking Paths Dataset
     - ![dataset](./img/Forking_Pahts_Dataset.PNG)
+    - collect data in CARLA env
+    - 750 trajectories
+    - 4 camera view
 - Result [(video)](https://youtu.be/RW45YQHxIhk)
     - ![result](./img/Forking_Pahts_result.PNG)
 
