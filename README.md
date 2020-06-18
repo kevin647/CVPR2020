@@ -26,13 +26,13 @@
 
 ### Video-Language Grounding
 
-1. Gunnar A. Sigurdsson, Jean-Baptiste Alayrac, Aida Nematzadeh, Lucas Smaira, Mateusz Malinowski, João Carreira, Phil Blunsom, Andrew Zisserman, **Visual Grounding in Video for Unsupervised Word Translation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Sigurdsson_Visual_Grounding_in_Video_for_Unsupervised_Word_Translation_CVPR_2020_paper.pdf) [[Code]](https://github.com/gsig/visual-grounding) - Nuri
+1. Gunnar A. Sigurdsson, Jean-Baptiste Alayrac, Aida Nematzadeh, Lucas Smaira, Mateusz Malinowski, João Carreira, Phil Blunsom, Andrew Zisserman, **Visual Grounding in Video for Unsupervised Word Translation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Sigurdsson_Visual_Grounding_in_Video_for_Unsupervised_Word_Translation_CVPR_2020_paper.pdf) [[Code]](https://github.com/gsig/visual-grounding) [[Video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/5854/5854-1min.mp4) - Nuri
 
-1. Runhao Zeng, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chuang Gan, **Dense Regression Network for Video Grounding** [[Paper]](https://arxiv.org/pdf/2004.03545.pdf) - Nuri
+1. Runhao Zeng, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chuang Gan, **Dense Regression Network for Video Grounding** [[Paper]](https://arxiv.org/pdf/2004.03545.pdf) [[Video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/1227/1227-1min.mp4) - Nuri
 
-1. Zhu Zhang, Zhou Zhao, Yang Zhao, Qi Wang, Huasheng Liu, Lianli Gao, **Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences** [[Paper]](https://arxiv.org/pdf/2001.06891.pdf) [[Dataset]](https://github.com/Guaranteer/VidSTG-Dataset) - Nuri
+1. Zhu Zhang, Zhou Zhao, Yang Zhao, Qi Wang, Huasheng Liu, Lianli Gao, **Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences** [[Paper]](https://arxiv.org/pdf/2001.06891.pdf) [[Dataset]](https://github.com/Guaranteer/VidSTG-Dataset) [[Video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/3138/3138-1min.mp4) - Nuri
 
-1. Arka Sadhu, Kan Chen, Ram Nevatia, **Video Object Grounding Using Semantic Roles in Language Description** [[Paper]](https://arxiv.org/pdf/2003.10606.pdf) [[Code]](https://github.com/TheShadow29/vognet-pytorch) - Nuri
+1. Arka Sadhu, Kan Chen, Ram Nevatia, **Video Object Grounding Using Semantic Roles in Language Description** [[Paper]](https://arxiv.org/pdf/2003.10606.pdf) [[Code]](https://github.com/TheShadow29/vognet-pytorch) [[Video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/2164/2164-1min.mp4) - Nuri
 
 ### Object Referring Grounding
 
@@ -67,7 +67,7 @@
 5. Chenchen Liu, Yang Jin, Kehan Xu, Guoqiang Gong, Yadong Mu, **Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context** [[Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) - Obin
 
 ### Domain Adaptation Object Detection
-1. Yangtao Zheng, Di Huang, Songtao Liu, Yunhong Wang **Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Cross-domain_Object_Detection_through_Coarse-to-Fine_Feature_Adaptation_CVPR_2020_paper.pdf) - Nuri
+1. Yangtao Zheng, Di Huang, Songtao Liu, Yunhong Wang **Cross-domain Object Detection through Coarse-to-Fine Feature Adaptation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Cross-domain_Object_Detection_through_Coarse-to-Fine_Feature_Adaptation_CVPR_2020_paper.pdf) [[Video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/8151/8151-1min.mp4) - Nuri
 
 ### Pose Estimation
 1. He, Yisheng, et al. **PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation.** [[Paper]](https://arxiv.org/pdf/1911.04231.pdf) [[Code]](https://github.com/ethnhe/PVN3D) - Hogun
@@ -88,7 +88,7 @@
 
 ### Human-Object Interaction
 
-1. Oytun Ulutan, A S M Iftekhar, B. S. Manjunath	**VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ulutan_VSGNet_Spatial_Attention_Network_for_Detecting_Human_Object_Interactions_Using_CVPR_2020_paper.pdf) [[Code]](https://github.com/ASMIftekhar/VSGNet) - Nuri
+1. Oytun Ulutan, A S M Iftekhar, B. S. Manjunath	**VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ulutan_VSGNet_Spatial_Attention_Network_for_Detecting_Human_Object_Interactions_Using_CVPR_2020_paper.pdf) [[Code]](https://github.com/ASMIftekhar/VSGNet) [[Video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/7850/7850-1min.mp4) - Nuri
 
 ### 3D From a Single Image
 
