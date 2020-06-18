@@ -81,6 +81,9 @@
 ### 3D From a Single Image
 
 1. Zhenxing Mi, Yiming Luo, and Wenbing Tao **SSRNet: Scalable 3D Surface Reconstruction Network** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mi_SSRNet_Scalable_3D_Surface_Reconstruction_Network_CVPR_2020_paper.pdf) - Kyungjae
+
 2. Zhiqin Chen, Andrea Tagliasacchi, Hao Zhang **BSP-Net: Generating Compact Meshes via Binary Space Partitioning** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_BSP-Net_Generating_Compact_Meshes_via_Binary_Space_Partitioning_CVPR_2020_paper.pdf)[[Code]](https://github.com/czq142857/BSP-NET-original) - Kyungjae
+
 3. Yinyu Nie, Xiaoguang Han, Shihui Guo, Yujian Zheng, Jian Chang, Jian Jun Zhang **Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Nie_Total3DUnderstanding_Joint_Layout_Object_Pose_and_Mesh_Reconstruction_for_Indoor_CVPR_2020_paper.pdf) - Kyungjae
+
 4. 	Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong **Deep 3D Portrait from a Single Image** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Deep_3D_Portrait_From_a_Single_Image_CVPR_2020_paper.pdf) - Seunggyu
