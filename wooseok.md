@@ -38,8 +38,8 @@
             - output : offset vector for each possible grid cell
         - use beam search for k-trajectories (top k)
 - The Forking Paths Dataset
-    - [(video)](https://youtu.be/RW45YQHxIhk)
-- Result (+ video)
+    - ![dataset](./img/Forking_Pahts_Dataset.PNG)
+- Result [(video)](https://youtu.be/RW45YQHxIhk)
     - ![result](./img/Forking_Pahts_result.PNG)
 
 
