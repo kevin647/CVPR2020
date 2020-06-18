@@ -1,5 +1,5 @@
 ### Incremental Few-Shot Object Detection
-- **Oral presentation** [(ONCE_Video)](http://cvpr20.com/event/incremental-few-shot-object-detection2nd-time/)
+- **Oral presentation** [(Video)](http://cvpr20.com/event/incremental-few-shot-object-detection2nd-time/)
 
 - Model structure
     - ![ONCE_network](./img/ONCE_network.png)
@@ -62,5 +62,5 @@
         - ![PVN3D_result3](./img/PVN3D_result3.png)
     - Ablation study
         - ![PVN3D_ablation](./img/PVN3D_ablation.png)
-    - [(Video)](https://www.youtube.com/watch?v=ZKo788cyD-Q)
+    - Testing Results on YCB_Video Dataset [(Video)](https://www.youtube.com/watch?v=ZKo788cyD-Q)
 
