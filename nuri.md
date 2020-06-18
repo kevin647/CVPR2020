@@ -1,4 +1,4 @@
-###Graph-Structured Referring Expression Reasoning in the Wild
+### Graph-Structured Referring Expression Reasoning in the Wild
 - **Oral presentation** [(Video)](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/2703/2703-oral.mp4)
 
 - Contributions
@@ -10,7 +10,7 @@
     - ![graph_overview](./img/graph_overview.png)
     
 - Method
-    - ![network](./img/graph_network.PNG)
+    - ![graph_network](./img/graph_network.PNG)
     - Generate a image semantic graph
         - Each node represents an bounding box (object feature and embedded spatial location)
         - Each edge denote the relation between objects
@@ -39,18 +39,18 @@
     
 - Experiments
     - Good Performance
-        - ![performance](./img/graph_performance.PNG)
+        - ![graph_performance](./img/graph_performance.PNG)
     - Interpretable Visualization
-        - ![visualization](./img/graph_exp_visualization.PNG)
+        - ![graph_exp_visualization](./img/graph_exp_visualization.PNG)
 
-###ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks
+### ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks
 - [Project Page](https://askforalfred.com/)
 
 - Contributions
     - It introduces a new benchmark for connecting human language to *actions*, *behaviors*, and *objects* in interactive visual environments.
     
 - Overview
-    - ![alt text](./img/alfred_overview.PNG)
+    - ![alfred_overview](./img/alfred_overview.PNG)
 
 - ALFRED dataset
     - The dataset is based on [AI2-THOR](https://ai2thor.allenai.org) 2.0 simulator.
@@ -58,15 +58,21 @@
     - 7 tasks (pick & place, stack & place, pick two & place, clean & place, heat & place, cool & place, and examine in light).
     - It has 84 object classes (58 unique object classes and 26 receptacle object classes) in 120 scenes.
     - The objects have unique variants (dirty, clean, ...).
-    - ![alt text](./img/alfred_dataset_comparison.PNG)
-    - ![alt text](./img/alfred_datasplit.PNG)
-    - Example: ![example](./img/alfred_annotation.PNG)
+    - ![alfred_dataset_comparison](./img/alfred_dataset_comparison.PNG)
+    - ![alfred_datasplit](./img/alfred_datasplit.PNG)
+    - Example: ![alfred_annotation](./img/alfred_annotation.PNG)
     - It suggest a model for training the new complex, realistic task...
-        - ![alt text](./img/alfred_model.PNG)
+        - ![alfred_model](./img/alfred_model.PNG)
     
 - Experiments
     - Even though they select a quite new training methods (progress monitor, LSTM, ...), the results are poor 
     because the lack of ability to reasoning capacity for a long-horizon & compositional task planning.
-        - ![alt text](./img/alfred_experiment1.PNG)
+        - ![alfred_experiment1](./img/alfred_experiment1.PNG)
     - Not bad for the sub-goal
-        - ![alt text](./img/alfred_experiment2.PNG)
+        - ![alfred_experiment2](./img/alfred_experiment2.PNG)
+        
+### Embodied Language Grounding With 3D Visual Feature Representations
+- [Video](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/5879/5879-1min.mp4)
+
+- Overview
+    - ![embodied_overview](./img/embodied_overview.PNG)
