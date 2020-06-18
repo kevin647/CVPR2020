@@ -97,3 +97,7 @@
 ### Action and Behavior
 
 1. Zhibo Yang, Lihan Huang, Yupei Chen, Zijun Wei, Seoyoung Ahn, Gregory Zelinsky, Dimitris Samaras, Minh Hoai	**Predicting Goal-Directed Human Attention Using Inverse Reinforcement Learning** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Predicting_Goal-Directed_Human_Attention_Using_Inverse_Reinforcement_Learning_CVPR_2020_paper.pdf) - Hwiyeon
+
+### Vision & Language
+
+1. Fengda Zhu, Yi Zhu, Xiaojun Chang, Xiaodan Liang	**Vision-Language Navigation With Self-Supervised Auxiliary Reasoning Tasks** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Vision-Language_Navigation_With_Self-Supervised_Auxiliary_Reasoning_Tasks_CVPR_2020_paper.pdf) - Hwiyeon
