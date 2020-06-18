@@ -7,4 +7,9 @@
 
 ### The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction
 - **presentation** [[video]](http://cvpr20.com/event/the-garden-of-forking-paths-towards-multi-future-trajectory-prediction/)
+- Motivation
+- Method (Network)
+- The Forking Paths Dataset
+- Result (+ video)
+
 
