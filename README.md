@@ -16,7 +16,7 @@
   - [Human-Object Interaction](#human-object-interaction)
   - [3D From a Single Image](#3d-from-a-single-image)
   - [Motion and Tracking](#motion-and-tracking)
-  - [Trajectory Prediction](#trajectory-predicton)
+  - [Trajectory Prediction](#trajectory-prediction)
 
 
 ### Visual-Language Grounding:
