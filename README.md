@@ -89,3 +89,7 @@
 4. Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong **Deep 3D Portrait from a Single Image** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Deep_3D_Portrait_From_a_Single_Image_CVPR_2020_paper.pdf) - Seunggyu
 
 5. Hamid Izadinia, Steven M. Seitz **Scene Recomposition by Learning-Based ICP** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Izadinia_Scene_Recomposition_by_Learning-Based_ICP_CVPR_2020_paper.pdf) - Seunggyu
+
+### Vision for Robotics and Autonomous Vehicles
+
+1. Thomas Roddick, Roberto Cipolla	**Predicting Semantic Map Representations From Images Using Pyramid Occupancy Networks** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Roddick_Predicting_Semantic_Map_Representations_From_Images_Using_Pyramid_Occupancy_Networks_CVPR_2020_paper.pdf) - Hwiyeon
