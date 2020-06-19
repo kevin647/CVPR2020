@@ -1,5 +1,5 @@
 ### Incremental Few-Shot Object Detection
-- **Oral presentation** [(Video)](http://cvpr20.com/event/incremental-few-shot-object-detection2nd-time/)
+- **Poster presentation** [(Video)](http://cvpr20.com/event/incremental-few-shot-object-detection2nd-time/)
 
 - Model structure
     - ![ONCE_network](./img/ONCE_network.png)
@@ -46,7 +46,7 @@
         - ![graph_incremental](./img/ONCE_result3_forgetting.png)
 
 ### PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation
-- **Oral presentation** [(Video)](http://cvpr20.com/event/pvn3d-a-deep-point-wise-3d-keypoints-voting-network-for-6dof-pose-estimation2nd-time/)
+- **Poster presentation** [(Video)](http://cvpr20.com/event/pvn3d-a-deep-point-wise-3d-keypoints-voting-network-for-6dof-pose-estimation2nd-time/)
 
 - Overview
     - ![PVN3D_Overview](./img/PVN3D_overview.png)
