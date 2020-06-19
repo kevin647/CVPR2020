@@ -5,7 +5,7 @@
     - Prediect context-aware human motion from past observations
     
 - Overview
-    - ![ch1_overview](./img/ch1_overview.PNG)
+    - ![ch1_overview](./img/cahmp_example.png)
     
 - Method
     - ![ch1_network](./img/ch1_network.PNG)
