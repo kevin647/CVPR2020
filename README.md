@@ -105,7 +105,7 @@
 
 4. Sicheng Xu, Jiaolong Yang, Dong Chen, Fang Wen, Yu Deng, Yunde Jia, Xin Tong **Deep 3D Portrait from a Single Image.** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Deep_3D_Portrait_From_a_Single_Image_CVPR_2020_paper.pdf) [[Video]](http://cvpr20.com/event/deep-3d-portrait-from-a-single-image-2/) - Seunggyu
 
-5. Hamid Izadinia, Steven M. Seitz **Scene Recomposition by Learning-Based ICP.** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Izadinia_Scene_Recomposition_by_Learning-Based_ICP_CVPR_2020_paper.pdf) - Seunggyu
+5. Hamid Izadinia, Steven M. Seitz **Scene Recomposition by Learning-Based ICP.** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Izadinia_Scene_Recomposition_by_Learning-Based_ICP_CVPR_2020_paper.pdf) [[Video]](http://cvpr20.com/event/scene-recomposition-by-learning-based-icp/) - Seunggyu
 
 ### Motion and Tracking
 
