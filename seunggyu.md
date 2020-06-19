@@ -1,8 +1,8 @@
-### Conditional Channel Gated Networks for Task-Aware Continual Learning
-- **Oral presentation** [(Video)](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/2376/2376-oral.mp4)
+### Context-Aware Human Motion Prediction
+- [(Video)](http://cvpr20.com/event/context-aware-human-motion-prediction/)
 
 - Goal
-    - It proposed a gating network for continual learning.
+    - 
     
 - Overview
     - ![ch1_overview](./img/ch1_overview.PNG)
