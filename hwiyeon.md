@@ -23,7 +23,7 @@
     - It proposed a method for vision-language navigation which solves auxiliary tasks to take advantage of the additional training signals derived from the semantic information.
     
 - Overview
-    - ![aux_RN_overview](./img/aux_RN_overview.PNG)
+    - ![aux_RN_overview](./img/aux_RN_overview.png)
 
 - Method
     - ![aux_RN_network](./img/aux_RN_network.png)
