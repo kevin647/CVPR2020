@@ -2,7 +2,7 @@
 - [(Video)](http://cvpr20.com/event/context-aware-human-motion-prediction/)
 
 - Goal
-    - 
+    - Prediect context-aware human motion from past observations
     
 - Overview
     - ![ch1_overview](./img/ch1_overview.PNG)
