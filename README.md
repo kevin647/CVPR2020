@@ -95,6 +95,11 @@
 
 1. Oytun Ulutan, A S M Iftekhar, B. S. Manjunath	**VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions.** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ulutan_VSGNet_Spatial_Attention_Network_for_Detecting_Human_Object_Interactions_Using_CVPR_2020_paper.pdf) [[Code]](https://github.com/ASMIftekhar/VSGNet) [[Video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/7850/7850-1min.mp4) - Nuri
 
+2. Kiana Ehsani, Shubham Tulsiani, Saurabh Gupta, Ali Farhadi, Abhinav Gupta, **Use the Force, Luke! Learning to Predict Physical Forces by Simulating Effects.** [[Paper]]
+(https://arxiv.org/pdf/2003.12045.pdf) [[Code]]
+(https://ehsanik.github.io/forcecvpr2020/) [[Video]]
+(http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/3095/3095-oral.mp4) - Jeongho
+
 ### 3D From a Single Image
 
 1. Zhenxing Mi, Yiming Luo, and Wenbing Tao **SSRNet: Scalable 3D Surface Reconstruction Network.** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mi_SSRNet_Scalable_3D_Surface_Reconstruction_Network_CVPR_2020_paper.pdf) - Kyungjae
