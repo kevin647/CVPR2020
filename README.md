@@ -121,4 +121,7 @@
 
 2. Yue Wu, Rongrong Gao, Jaesik Park, Qifeng Chen **Future Video Synthesis with Object Motion Prediction** [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Future_Video_Synthesis_With_Object_Motion_Prediction_CVPR_2020_paper.pdf) - Timothy
 
-3. Srikanth Malla, Behzad Dariush, Chiho Choi **TITAN: Future Forecast Using Action Priors** [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Malla_TITAN_Future_Forecast_Using_Action_Priors_CVPR_2020_paper.pdf) [[Video]](http://cvpr20.s3-website-us-west-2.amazonaws.com/CVPR20/CVPR20/7874/7874-oral.mp4) - Kyungdo
+3. Srikanth Malla, Behzad Dariush, Chiho Choi **TITAN: Future Forecast Using Action Priors** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Malla_TITAN_Future_Forecast_Using_Action_Priors_CVPR_2020_paper.pdf) [[Video]](http://cvpr20.s3-website-us-west-2.amazonaws.com/CVPR20/CVPR20/7874/7874-oral.mp4) - Kyungdo
+
+### Image generation
+1. Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Menon_PULSE_Self-Supervised_Photo_Upsampling_via_Latent_Space_Exploration_of_Generative_CVPR_2020_paper.pdf) [[Video]](http://cvpr20.s3-website-us-west-2.amazonaws.com/CVPR20/CVPR20/9879/9879-1min.mp4) - Kyungdo
