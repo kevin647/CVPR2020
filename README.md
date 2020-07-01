@@ -127,4 +127,4 @@
 1. Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Menon_PULSE_Self-Supervised_Photo_Upsampling_via_Latent_Space_Exploration_of_Generative_CVPR_2020_paper.pdf) [[Video]](http://cvpr20.s3-website-us-west-2.amazonaws.com/CVPR20/CVPR20/9879/9879-1min.mp4) - Kyungdo
 
 ### Scene Analysis and Understanding
-1. Johanna Wald, Helisa Dhamo, Nassir Navab, Federico Tombari, Learning 3D Semantic Scene Graphs From 3D Indoor Reconstructions. [[Paper]](https://arxiv.org/pdf/2004.03967.pdf)
+1. Johanna Wald, Helisa Dhamo, Nassir Navab, Federico Tombari **Learning 3D Semantic Scene Graphs From 3D Indoor Reconstructions** [[Paper]](https://arxiv.org/pdf/2004.03967.pdf)
